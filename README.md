@@ -11,4 +11,16 @@ PS2 Remote controlled Omni Drive robot with Heading Hold.
 <b> Motor Controller :</b>
 <ul>Sabertooth 2X60 Motor Driver</ul>
 
-Demo : [![Video](http://img.youtube.com/vi/KkN7SB9inCo/0.jpg)](https://www.youtube.com/watch?v=KkN7SB9inCo)
+Credits : <br />
+Manufacturing and Fabrication
+<ul>Manav Vadhvan</ul>
+<ul>Karthik Sethuraman</ul>
+<ul>Ashutosh Kumar</ul>
+
+<br />
+Electrical and Electronics
+<ul>Rakshith</ul>
+<ul>Sumanth Shridhar</ul>
+
+Demo :
+[![Video](http://img.youtube.com/vi/KkN7SB9inCo/0.jpg)](https://www.youtube.com/watch?v=KkN7SB9inCo)
